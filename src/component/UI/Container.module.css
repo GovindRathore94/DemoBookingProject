@@ -1,0 +1,6 @@
+.container {
+  max-width: 1340px;
+  width: 90%;
+  margin: auto;
+  /* border: 0.2px dotted rgb(0, 38, 255); */
+}
